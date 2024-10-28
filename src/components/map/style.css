@@ -1,0 +1,22 @@
+.Card-box {
+    width: 280px;
+    height: 310px;
+    border-radius: 8px;
+    box-shadow: 0 0 8px grey;
+    padding: 7px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+    flex-direction: column;
+    
+  }
+  
+  .Main-box {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 30px;
+  }
+  
